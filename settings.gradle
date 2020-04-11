@@ -1,0 +1,2 @@
+rootProject.name='Daftar harga Laptop'
+include ':app'
